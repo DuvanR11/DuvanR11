@@ -26,7 +26,7 @@ Hola, Soy Duvan Rivera, Desarrollador frontend de Colombia 🚀, Cuento con expe
 
 _Personal_
 
-- :star::blush: Mi sitio **[Web](https://portafolioduvan.herokuapp.com/)** :v:
+- :star::blush: Mi sitio **[Web](https://links.devduvan.tech/)** :v:
 - :star::blush: Fotos, tips y memes **[Instagram]()** :v:
 - :star::blush: Algo que no uso x1 **[Facebook]()** :v:
 - :star::blush: Algo que no uso x2 **[Twitter]()** :v:
